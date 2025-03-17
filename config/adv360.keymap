@@ -55,7 +55,7 @@
             bindings = <
 &trans     &trans  &trans  &trans  &trans  &trans  &trans                                               &trans     &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &trans  &trans  &trans  &trans  &kp T   &trans                                               &trans     &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans  &trans  &trans  &trans  &trans  &kp EQUAL  &trans     &trans      &trans  &trans     &trans     &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &nkp A  &trans  &nkp D  &trans  &trans  &kp EQUAL  &trans     &trans      &trans  &trans     &trans     &trans  &trans  &trans  &trans  &trans  &trans
 &kp LSHFT  &kp Z   &trans  &trans  &trans  &trans                        &trans      &trans                        &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &trans  &trans  &trans  &trans          &kp SPACE  &kp LCTRL  &trans      &trans  &kp RCTRL  &kp ENTER          &trans  &trans  &trans  &trans  &trans
             >;
