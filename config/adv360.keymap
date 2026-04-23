@@ -56,7 +56,7 @@
         gaming {
             display-name = "Gaming";
             bindings = <
-&trans     &trans  &trans  &trans  &trans  &trans  &trans                                               &trans     &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &trans  &trans  &trans  &trans  &trans  &mo 2                                                &trans     &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &trans  &trans  &trans  &trans  &kp T   &trans                                               &trans     &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &nkp A  &trans  &nkp D  &trans  &trans  &kp EQUAL  &trans     &trans      &trans  &trans     &trans     &trans  &trans  &trans  &trans  &trans  &trans
 &kp LSHFT  &kp Z   &trans  &trans  &trans  &trans                        &trans      &trans                        &trans  &trans  &trans  &trans  &trans  &trans
